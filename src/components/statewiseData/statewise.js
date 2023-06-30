@@ -45,7 +45,7 @@ const Statewise = () => {
                     <td>{curElem.recovered}</td>
                     <td>{curElem.deaths}</td>
                     <td>{curElem.active}</td>
-                    <td>{curElem.lastUpdatedtime}</td>
+                    <td>{curElem.lastupdatedtime}</td>
                   </tr>
                 );
               })}
